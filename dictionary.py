@@ -80,6 +80,21 @@ else:
 
 # Create two dictionaries and combine them into one dictionary.
 
-
+dict1={
+    "name":"neethu",
+    "age":90
+}
+dict2={
+    "course":"krishna",
+    "mark":89
+}
+dict3=dict1|dict2
+print(dict3)
 
 # Write a program to print the total number of key-value pairs in a dictionary.
+student={
+    "name":"neethu",
+    "age":90,
+    "course":"cpp"
+}
+print(len(student))
