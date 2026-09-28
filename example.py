@@ -57,11 +57,35 @@
 # else:
 #     print("invalid")                
 
-passwrd=input("enter password  ")
-if len(passwrd) ==8:
-    print("check")
-elif x.isupper() for x in passwrd:
-elif x.lo
+# passwrd=input("enter password  ")
+# if len(passwrd) ==8:
+#     print("check")
+# elif x.isupper() for x in passwrd:
+# elif x.lo
 
+
+# def remove_duplicate(numbers):
+#     return list(set(numbers))
+
+# numbers=[1,2,3,2,3,5,6]
+# print(remove_duplicate(numbers))
+
+# def symmetric(text):
+#     x=int(len(text) / 2)
+
+#     if text[:x]==text[x:]:
+#         print("symmetric")
+#     else:
+#         print("not symmetric")
+# symmetric("abaab")            
+
+# def reverse_sentence(sentence):
+#     sentence1=sentence.split()
+#     sentence1.reverse()
+#     print(sentence1)
+
+# reverse_sentence(" i love python")    
+
+        
 
      
